@@ -8,12 +8,12 @@ Run project
 
 How to test
 
-add student
+1. add student
 GET - localhost:3000/addStudent?name=asdf
 POST - localhost:3000/addStudent
 body : {"name":"fff"}
 
-add ArrayStudent
+2. add ArrayStudent
 POST - localhost:3000/addArrayStudent
 body : {
 "data":[
@@ -21,11 +21,11 @@ body : {
 ]
 }
 
-resetStudent
+3. resetStudent
 GET - localhost:3000/resetStudent
 
-getSummary
+4. getSummary
 GET - localhost:3000/summary
 
-getAllData
+5. getAllData
 POST - localhost:3000/allData
