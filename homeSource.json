@@ -1,0 +1,25 @@
+[
+  {
+    "id":0,
+    "name":"Gryffindor",
+    "student":[]
+  }
+  ,
+  {
+    "id":1,
+    "name":"Hufflepuff",
+    "student":[]
+  }
+  ,
+  {
+    "id":2,
+    "name":"Ravenclaw",
+    "student":[]
+  }
+  ,
+  {
+    "id":3,
+    "name":"Slytherin",
+    "student":[]
+  }
+]
