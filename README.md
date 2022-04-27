@@ -9,12 +9,12 @@ Run project
 How to test
 
 1. add student
-GET - localhost:3000/addStudent?name=asdf
-POST - localhost:3000/addStudent
+	- GET - localhost:3000/addStudent?name=asdf
+	- POST - localhost:3000/addStudent
 body : {"name":"fff"}
 
 2. add ArrayStudent
-POST - localhost:3000/addArrayStudent
+	- POST - localhost:3000/addArrayStudent
 body : {
 "data":[
 {"name":"aaaa"},{"name":"bbbbb"}
@@ -22,10 +22,10 @@ body : {
 }
 
 3. resetStudent
-GET - localhost:3000/resetStudent
+	- GET - localhost:3000/resetStudent
 
 4. getSummary
-GET - localhost:3000/summary
+	- GET - localhost:3000/summary
 
 5. getAllData
-POST - localhost:3000/allData
+	- POST - localhost:3000/allData
